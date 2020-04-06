@@ -1,1 +1,1 @@
-## Projeto para estudar Design
+## Projeto para estudar Web Design
